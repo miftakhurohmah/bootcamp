@@ -99,4 +99,4 @@ b. https://www.figma.com/file/5b2wwgYO9vh5AhgGLTFHb0/Untitled?node-id=0:1
 
 c . 
 
-![alt text](https://drive.google.com/drive/my-drive)
+![alt text](Screenshot_8.png)
